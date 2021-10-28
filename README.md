@@ -1,2 +1,2 @@
 # diwa
-Hello, this is
+Hello, this is a sample repository.
